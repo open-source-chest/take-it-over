@@ -8,14 +8,14 @@ A list of open-source project looking for a new maintainer/lead developer.
 2. Take a close look at interesting projects
 3. Make sure your have enough free time to maintain the project
 4. Write to the current maintainer (using linked Github account)
-5. If all aggree, the repository will probably be moved to an own organisation
+5. If all agree, the repository will probably be moved to an own organisation
 6. The current maintainer will support you very intensively in the beginning so you will know how to use the git workflow, versions, builds, deployments, etc.
 
 
 ## Rules
 
-1. You aggree to not change the license to something properitary
-2. You aggree to maintain the project as best as you can (taking over a project only for the reputation is a no-go)
+1. You agree to not change the license to something properitary
+2. You agree to maintain the project as best as you can (taking over a project only for the reputation is a no-go)
 3. The current maintainer helps your in the beginning to get things going.
 
 ## Why?
