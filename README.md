@@ -36,13 +36,13 @@ Send a pull-request with your project.
 ### Javascript
 
 * [marcj/css-element-queries](https://github.com/marcj/css-element-queries) by [@marcj](https://github.com/marcj) -
-Widely used CSS-Element-Queries Polyfill (1300+ stars, 10k installs/month, looking for **new owner**)
+Widely used CSS-Element-Queries Polyfill (1500+ stars, 10k installs/month, looking for **new owner**)
 * [marcj/angular2-localstorage](https://github.com/marcj/angular2-localstorage) by [@marcj](https://github.com/marcj) -
-very new and trending library for automatically store properties in localStorage for Angular2 (80+ stars, ~1000 installs/month, looking for **new owner**)
+very new and trending library for automatically store properties in localStorage for Angular2 (120+ stars, ~1000 installs/month, looking for **new owner**)
 
 ### PHP
 
 * [jarves.io](http://jarves.io) [github.com/jarves/jarves](https://github.com/jarves/jarves) by [@marcj](https://github.com/marcj) - 
-New CMS/Application Framework based on Symfony (200+ stars, looking for new **lead developer**)
+New CMS/Application Framework based on Symfony (220+ stars, looking for new **lead developer**)
 * [marcj/php-rest-service](https://github.com/marcj/php-rest-service) by [@marcj](https://github.com/marcj) -
-A very simple and fast PHP class for server-side RESTful JSON APIs. (130+ stars, ~600 intalls/month, looking for **new owner**)
+A very simple and fast PHP class for server-side RESTful JSON APIs. (140+ stars, ~600 intalls/month, looking for **new owner**)
